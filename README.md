@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Phil!
 
 🎯 **Data professional on a mission to turn messy data into meaningful insight.**  
 💡 Passionate about building smarter systems, streamlining workflows, and making data work for everyone.
@@ -23,7 +23,12 @@
 ---
 
 ### 🔧 Tools & Tech I Love:
-`SQL` `Power BI` `Python` `Tableau` `Snowflake` `Git` `Jupyter` `Excel (for real, though)`  
+https://img.shields.io/badge/SQLAlchemy-D71F00.svg?style=for-the-badge&logo=SQLAlchemy&logoColor=white
+`Expert SQL (CTEs, window functions, pivots, stored procedures)` `Python (Pandas, SQLAlchemy, NumPy, Flask, Behave)` `SSIS` `DevOps` `RDBMS (SQL Server, MariaDB, Oracle, Postgres)` `Excel (for real, though)` 
+Jupyter Notebook, PowerBI, Pycharm, Visio, Power Pivot, Power Platform, HTML, Jinja, CSS
+`Excel (for real, though)`  
+
+: Expert SQL (CTEs, window functions, pivots, stored procedures), Python (Pandas, SQLAlchemy, NumPy, Flask, Behave), AWS (S3, Redshift), SSIS, DevOps, Jira, Confluence, Git, Github, RDBMS (SQL Server, MariaDB, Oracle, Postgres), Jupyter Notebook, PowerBI, Pycharm, Visio, Power Pivot, Power Platform, HTML, Jinja, CSS
 Currently playing around with `LangChain`, `ChatGPT APIs`, and other fun AI stuff.
 
 ---
