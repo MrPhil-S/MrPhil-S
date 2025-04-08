@@ -30,7 +30,7 @@ Currently playing around with `LangChain`, `ChatGPT APIs`, and other fun AI stuf
 
 ### 📫 Let’s Connect!
 If you’re into data, tech, or need help brainstorming your next data project — I’m your person.  
-Drop a message, open a discussion, or say hey on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/philipschims/))!
+Drop a message, open a discussion, or say hey on [LinkedIn](https://www.linkedin.com/in/philipschims/ "Phil Schims LinkedIn")
 
 ---
 
