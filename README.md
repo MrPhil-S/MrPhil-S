@@ -1,5 +1,3 @@
-# 👋 Hi there, I'm Phil!
-
 🎯 **Data professional on a mission to turn messy data into meaningful insights.**  
 💡 Passionate about building smarter systems, streamlining workflows, and making data work for everyone.
 
@@ -10,7 +8,7 @@
 - 🛠️ Automating processes for efficiency and scalability
 - 📊 Building engaging dashboards & data products that tell a story
 - 🤝 Collaborating across teams to turn questions into insight
-- 🧠 Data Analytics, Visualization, and Strategy
+- 🧠 Data analytics, visualization, and strategy
 - 🧪 Always experimenting, always learning — especially with AI & emerging tools
 
 ---
@@ -19,7 +17,6 @@
 - Enhancing business operations through **data storytelling**  
 - Diving into **AI/ML tools** to explore the future of analytics  
 - Creating modular and scalable data solutions  
-- Hosting knowledge shares and brown bags on things I love to geek out about
 
 ---
 
